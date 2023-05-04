@@ -91,9 +91,6 @@ class Gender extends StatelessWidget {
                               )),
                         ),
                       )),
-                  SizedBox(
-                    height: sh * (62 / Lengths.height),
-                  ),
                   Center(
                     child: Container(
                       alignment: Alignment.center,
